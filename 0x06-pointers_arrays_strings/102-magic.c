@@ -9,7 +9,7 @@ int main(void)
 	a[2] = 1024;
 	p = &n;
 
-	/* Write only one statement below */
+	/* Add one line below */
 	*(a + 2) = 98;
 
 	printf("a[2] = %d\n", a[2]);
